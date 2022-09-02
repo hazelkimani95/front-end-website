@@ -1,0 +1,42 @@
+
+ header {
+        color:black;
+        font-family: sans-serif;
+        text-align: center;
+        font-size:small;
+ }
+
+ img {
+    margin-right: 10;
+    margin-top: 10;
+    margin-bottom: 10;
+    height: 10;
+    width: 10;
+ }
+ footer {
+    display: block;
+    background-color: #000000;
+    height: auto;
+  }
+  p{
+    color: #fff;
+    text-align: center;
+
+  }
+  h1 {
+    color: #000;
+    font-family: cursive;
+    text-align: end;
+    font-size: smaller;
+  }
+  navbar-brand {
+    color: palevioletred;
+  }
+    span {
+        margin-left: 10em;
+    }
+
+    
+          
+
+  
